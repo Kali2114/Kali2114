@@ -26,7 +26,6 @@ I do backend development with a focus on Python and Django. I am passionate abou
 - **Python**
 - **Django** + **Django REST Framework**
 - **HTML/CSS**
-- **JavaScript**
 - **PostgreSQL**
 - **Docker** & **Docker-Compose**
 - **Nginx**
