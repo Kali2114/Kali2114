@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi everyone 👋
 
-<!--
-**Kali2114/Kali2114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kamil Kalicki, a Junior Python Developer from Poland, passionate about backend development using Python and Django.
 
-Here are some ideas to get you started:
+## More stuff about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quick overview
+
+- **Name**: Kamil Kalicki
+- **Location**: Poland
+- **Occupation**: Junior Python Developer
+- **Education**: SDA BootCamp Python Developer, Praktyczny Python, InfoShare Academy PythOn, various courses
+- **Languages**: Polish (Native), English (B2)
+ 
+### GitHub stats
+
+![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kali2114&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kali2114&layout=compact&theme=radical)
+
+### What I do
+
+I do backend development with a focus on Python and Django. I am passionate about creating efficient and scalable web applications, and I enjoy working in dynamic teams. I am always eager to learn new technologies and improve my skills.
+
+### My skills 📜
+
+#### Web technologies
+- **Python**
+- **Django** + **Django REST Framework**
+- **HTML/CSS**
+- **JavaScript**
+- **PostgreSQL**
+- **Docker** & **Docker-Compose**
+- **Nginx**
+- **AWS**
+
+#### Application Development
+- **TDD**
+- **Click**
+- **SQLite**
+
+#### Productivity utilities
+- **Git/GitHub**
+- **Jira**
+- **Postman**
+- **Scrum/Agile**
+
+### Languages 🌐
+
+| Language | Proficiency |
+|----------|-------------|
+| Polish   | Native      |
+| English  | B2          |
+
+### What I'm currently learning 📚
+
+- Diving deeper into Django and DRF
+- Exploring cloud services with AWS
+- Enhancing my Docker and containerization skills
+- JavaScript
+- RabbitMQ
+
+### My own dictionary 📕
+
+| Word / abbreviation | Meaning                               | Note                      |
+|---------------------|---------------------------------------|---------------------------|
+| TDD                 | Test-Driven Development               | A software development process |
+| DRF                 | Django REST Framework                 | A powerful and flexible toolkit for building Web APIs |
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
