@@ -8,7 +8,6 @@ I'm Kamil Kalicki, a Junior Python Developer from Poland, passionate about backe
 
 - **Name**: Kamil Kalicki
 - **Location**: Poland
-- **Occupation**: Junior Python Developer
 - **Education**: SDA BootCamp Python Developer, Praktyczny Python, InfoShare Academy PythOn, various courses
 - **Languages**: Polish (Native), English (B2)
  
