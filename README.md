@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I'm Kamil Kalicki, a Junior Python Developer from Poland, passionate about backend development using Python and Django.
+I'm Kamil Kalicki, a Backend Developer in Training from Poland, passionate about backend development using Python and Django.🐍
 
 ## More stuff about me
 
@@ -23,11 +23,11 @@ I do backend development with a focus on Python and Django. I am passionate abou
 ### My skills 📜
 
 #### Web technologies
-- **Python**
+- **Python** 
 - **Django** + **Django REST Framework**
-- **HTML/CSS**
-- **PostgreSQL**
-- **Docker** & **Docker-Compose**
+- **HTML/CSS** 
+- **PostgreSQL** 
+- **Docker** & **Docker-Compose** 
 - **Nginx**
 - **AWS**
 
