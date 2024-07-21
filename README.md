@@ -54,7 +54,7 @@ I do backend development with a focus on Python and Django. I am passionate abou
 - Diving deeper into Django and DRF
 - Exploring cloud services with AWS
 - Enhancing my Docker and containerization skills
-- JavaScript
+- Flask
 - RabbitMQ
 
 ### My own dictionary 📕
