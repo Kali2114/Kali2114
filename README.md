@@ -62,6 +62,7 @@ In queue:
 - RabbitMQ
 - Redis
 - MongoDB
+- JavaScript
 
 
 ### My own dictionary 📕
