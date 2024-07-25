@@ -15,12 +15,9 @@ I'm Kamil Kalicki, a Backend Developer in Training from Poland, passionate about
 
 ![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kali2114&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kali2114&layout=compact&theme=radical)
-![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kali2114&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kali2114&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kali2114&theme=radical)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=Kali2114&color=brightgreen)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kali2114&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kali2114&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ### What I do
