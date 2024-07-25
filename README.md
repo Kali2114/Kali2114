@@ -55,7 +55,14 @@ I do backend development with a focus on Python and Django. I am passionate abou
 - Exploring cloud services with AWS
 - Enhancing my Docker and containerization skills
 - Flask
+
+In queue:
+
+- FastAPI
 - RabbitMQ
+- Redis
+- MongoDB
+
 
 ### My own dictionary 📕
 
