@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I'm Kamil Kalicki, a Backend Developer in Training from Poland, passionate about backend development using Python and Django.🐍
+I'm Kamil Kalicki, a Backend Developer in Training from Poland, passionate about backend development using Python.🐍
 
 ## More stuff about me
 
