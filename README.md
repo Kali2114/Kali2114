@@ -22,7 +22,7 @@ I'm Kamil Kalicki, a Backend Developer in Training from Poland, passionate about
 
 ### What I do
 
-I do backend development with a focus on Python and Django. I am passionate about creating efficient and scalable web applications, and I enjoy working in dynamic teams. I am always eager to learn new technologies and improve my skills.
+I specialize in backend development with a strong focus on Python. My expertise includes creating efficient and scalable web applications, particularly using frameworks like Django. I am passionate about exploring various backend technologies and continuously improving my skills. I thrive in dynamic team environments and am always eager to learn and adopt new tools.
 
 ### My skills 📜
 
