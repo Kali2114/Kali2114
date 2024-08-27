@@ -58,13 +58,13 @@ I specialize in backend development with a strong focus on Python. My expertise 
 - Diving deeper into Django and DRF
 - Exploring cloud services with AWS
 - Enhancing my Docker and containerization skills
+- Redis
 - FastAPI
 
 In queue:
 
 - Flask
 - RabbitMQ
-- Redis
 - MongoDB
 - JavaScript
 
