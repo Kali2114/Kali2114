@@ -68,14 +68,6 @@ In queue:
 - MongoDB
 - JavaScript
 
-
-### My own dictionary 📕
-
-| Word / abbreviation | Meaning                               | Note                      |
-|---------------------|---------------------------------------|---------------------------|
-| TDD                 | Test-Driven Development               | A software development process |
-| DRF                 | Django REST Framework                 | A powerful and flexible toolkit for building Web APIs |
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
