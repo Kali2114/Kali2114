@@ -29,6 +29,7 @@ I specialize in backend development with a strong focus on Python. My expertise 
 #### Web technologies
 - **Python** 
 - **Django** + **Django REST Framework**
+- **Flask** 
 - **HTML/CSS** 
 - **PostgreSQL** 
 - **Docker** & **Docker-Compose** 
@@ -55,16 +56,13 @@ I specialize in backend development with a strong focus on Python. My expertise 
 
 ### What I'm currently learning 📚
 
-- Diving deeper into Django and DRF
-- Exploring cloud services with AWS
-- Enhancing my Docker and containerization skills
-- Redis
-- Flask
-
-In queue:
+Now:
 
 - FastAPI
 - RabbitMQ
+
+In queue:
+
 - MongoDB
 - JavaScript
 
