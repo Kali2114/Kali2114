@@ -8,7 +8,8 @@ I'm Kamil Kalicki, a Backend Developer in Training from Poland, passionate about
 
 - **Name**: Kamil Kalicki
 - **Location**: Poland
-- **Education**: SDA BootCamp Python Developer, Praktyczny Python, InfoShare Academy PythOn, various courses
+- **Education**: Starting October 2025 -Engineering degree in Computer Science(UwS), SDA BootCamp Python Developer, Praktyczny Python, InfoShare Academy PythOn, various courses
+- **Certifications**: PCEP – Certified Entry-Level Python Programmer, AWS Certified Cloud Practitioner
 - **Languages**: Polish (Native), English (B2)
  
 ### GitHub stats
