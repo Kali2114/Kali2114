@@ -6,8 +6,10 @@ I'm Kamil Kalicki, a Backend Developer in Training from Poland, passionate about
 
 ### Quick overview
 
-- **Name**: Kamil Kalicki
-- **Location**: Poland
+- **Name**:
+Kamil Kalicki
+- **Location**:
+Poland
 - **Education**:
 Starting October 2025 - Engineering degree in Computer Science(UwS),
 SDA BootCamp Python Developer,
