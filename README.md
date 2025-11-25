@@ -47,8 +47,12 @@ I specialize in backend development with a strong focus on Python. My expertise 
 
 ### My skills 📜
 
-#### Web technologies
+#### Programming Languages
 - **C++**
+- **Python**
+- **Bash basics**
+
+#### Backend & Web technologies
 - **Python** 
 - **Django** + **Django REST Framework**
 - **Flask** 
