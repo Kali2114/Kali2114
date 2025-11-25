@@ -22,6 +22,11 @@ AWS Certified Cloud Practitioner
 - **Languages**:
 Polish (Native),
 English (B2)
+
+### 🧠 CodeWars Profile
+
+[![CodeWars Badge](https://www.codewars.com/users/Kali2114/badges/large)](https://www.codewars.com/users/Kali2114)
+
  
 ### GitHub stats
 
