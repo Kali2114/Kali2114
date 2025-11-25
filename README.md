@@ -23,9 +23,6 @@ AWS Certified Cloud Practitioner
 Polish (Native),
 English (B2)
 
-### 🧠 CodeWars Profile
-
-[![CodeWars Badge](https://www.codewars.com/users/Kali2114/badges/large)](https://www.codewars.com/users/Kali2114)
 
  
 ### GitHub stats
@@ -34,6 +31,13 @@ English (B2)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kali2114&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kali2114&theme=radical)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kali2114&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+### 🧠 CodeWars Profile
+
+[![CodeWars Badge](https://www.codewars.com/users/Kali2114/badges/large)](https://www.codewars.com/users/Kali2114)
 
 
 
