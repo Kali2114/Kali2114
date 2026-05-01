@@ -44,6 +44,7 @@ I specialize in backend development with a strong focus on Python. My expertise 
 
 #### Programming Languages
 - **C++**
+- **Java**
 - **Python**
 - **Bash basics**
 
