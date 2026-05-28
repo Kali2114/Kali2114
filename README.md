@@ -51,7 +51,8 @@ I specialize in backend development with a strong focus on Python. My expertise 
 #### Backend & Web technologies
 - **Python** 
 - **Django** + **Django REST Framework**
-- **Flask** 
+- **Flask**
+- **FASTAPI
 - **HTML/CSS** 
 - **PostgreSQL** 
 - **Docker** & **Docker-Compose** 
@@ -80,7 +81,8 @@ I specialize in backend development with a strong focus on Python. My expertise 
 
 Now:
 
-- FastAPI
+- Terraform
+- Kubernetes
 - RabbitMQ
 
 In queue:
