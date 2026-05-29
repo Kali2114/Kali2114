@@ -52,7 +52,7 @@ I specialize in backend development with a strong focus on Python. My expertise 
 - **Python** 
 - **Django** + **Django REST Framework**
 - **Flask**
-- **FASTAPI
+- **FASTAPI**
 - **HTML/CSS** 
 - **PostgreSQL** 
 - **Docker** & **Docker-Compose** 
