@@ -1,95 +1,50 @@
-# Hi everyone 👋
+Hi everyone 👋
 
-I'm Kamil Kalicki, a Backend Developer in Training from Poland, passionate about backend development using Python.🐍
+I'm Kamil Kalicki, a Backend Developer from Poland, passionate about
+backend development using Python. 🐍
 
-## More stuff about me
+## Quick overview
+- **Name:** Kamil Kalicki
+- **Location:** Poland
+- **Education:** BEng in Computer Science (University of Siedlce) — expected 2028
+- **Certifications:** PCEP – Certified Entry-Level Python Programmer, AWS Certified Cloud Practitioner
+- **Languages:** Polish (Native), English (B2)
 
-### Quick overview
+## What I do
+I specialize in backend development with Python, building production-grade
+applications with Django and FastAPI — from data models and REST APIs to
+real-time features (WebSockets, Django Channels) and the infrastructure
+that runs them (Docker, Terraform, AWS, CI/CD).
 
-- **Name**:
-Kamil Kalicki
-- **Location**:
-Poland
-- **Education**:
-Starting October 2025 - Engineering degree in Computer Science(UwS),
-SDA BootCamp Python Developer,
-Praktyczny Python,
-InfoShare Academy PythOn,
-various courses
-- **Certifications**:
-PCEP – Certified Entry-Level Python Programmer,
-AWS Certified Cloud Practitioner
-- **Languages**:
-Polish (Native),
-English (B2)
+## My skills 📜
 
+**Programming Languages**
+Python, C++, Java, Bash
 
- 
-### GitHub stats
+**Backend & Web**
+Django, Django REST Framework, Django Channels, FastAPI, Flask,
+PostgreSQL, Redis, Celery, WebSockets, HTML/CSS
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kali2114&theme=radical)](https://git.io/streak-stats)
+**Infrastructure & DevOps**
+Docker, Docker Compose, Terraform, AWS (EC2, IAM, OIDC, Systems Manager),
+Nginx, GitHub Actions (CI/CD), Prometheus, Grafana
 
+**Testing & Security**
+TDD, Testinfra, CodeQL, Trivy
 
-### 🧠 CodeWars Profile
+**Tools & Practices**
+Git/GitHub, Jira, Postman, Scrum/Agile
 
-[![CodeWars Badge](https://www.codewars.com/users/Kali2114/badges/large)](https://www.codewars.com/users/Kali2114)
-
-
-
-### What I do
-
-I specialize in backend development with a strong focus on Python. My expertise includes creating efficient and scalable web applications, particularly using frameworks like Django. I am passionate about exploring various backend technologies and continuously improving my skills. I thrive in dynamic team environments and am always eager to learn and adopt new tools.
-
-### My skills 📜
-
-#### Programming Languages
-- **C++**
-- **Java**
-- **Python**
-- **Bash basics**
-
-#### Backend & Web technologies
-- **Python** 
-- **Django** + **Django REST Framework**
-- **Flask**
-- **FASTAPI**
-- **HTML/CSS** 
-- **PostgreSQL** 
-- **Docker** & **Docker-Compose** 
-- **Nginx**
-- **AWS**
-
-#### Application Development
-- **TDD**
-- **Click**
-- **SQLite**
-
-#### Productivity utilities
-- **Git/GitHub**
-- **Jira**
-- **Postman**
-- **Scrum/Agile**
-
-### Languages 🌐
-
+## Languages 🌐
 | Language | Proficiency |
 |----------|-------------|
 | Polish   | Native      |
 | English  | B2          |
 
-### What I'm currently learning 📚
-
-Now:
-
-- Terraform
+## What I'm currently learning 📚
 - Kubernetes
 - RabbitMQ
-
-In queue:
-
 - MongoDB
-- JavaScript
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
